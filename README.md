@@ -95,6 +95,7 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
+![image](https://github.com/user-attachments/assets/04b25219-7652-4e0e-87eb-ef70a4d8c153)
 
 
 
@@ -106,7 +107,7 @@ if _name_ == '_main_':
 ## MobileRobot Movement Video:
 
 https://youtube.com/watch?v=nOCwNC2g7CU
-
+Team : Anand, Jothimani, Senthil, Sandeep, Sugesh, Dhinesh
 <br/>
 <br/>
 <br/>
